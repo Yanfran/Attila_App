@@ -1,0 +1,13 @@
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-window-1.0.0-beta04-0 C:\Users\Yanfran Blanco\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-security-crypto-1.1.0-alpha06-1 C:\Users\Yanfran Blanco\.gradle\caches\transforms-3\2dd5e7ab9230030ff78143f5215ea597\transformed\jetified-security-crypto-1.1.0-alpha06\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-annotation-experimental-1.1.0-2 C:\Users\Yanfran Blanco\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-core-1.6.0-3 C:\Users\Yanfran Blanco\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-window-java-1.0.0-beta04-4 C:\Users\Yanfran Blanco\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-main-5 C:\Users\Yanfran Blanco\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-9.0.0\android\src\main\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-release-6 C:\Users\Yanfran Blanco\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-9.0.0\android\src\release\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-pngs-7 C:\Users\Yanfran Blanco\Desktop\Flutter\App_02\flutter_application_2\build\flutter_secure_storage\generated\res\pngs\release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-resValues-8 C:\Users\Yanfran Blanco\Desktop\Flutter\App_02\flutter_application_2\build\flutter_secure_storage\generated\res\resValues\release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-rs-9 C:\Users\Yanfran Blanco\Desktop\Flutter\App_02\flutter_application_2\build\flutter_secure_storage\generated\res\rs\release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-mergeReleaseResources-10 C:\Users\Yanfran Blanco\Desktop\Flutter\App_02\flutter_application_2\build\flutter_secure_storage\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-mergeReleaseResources-11 C:\Users\Yanfran Blanco\Desktop\Flutter\App_02\flutter_application_2\build\flutter_secure_storage\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-merged_res-12 C:\Users\Yanfran Blanco\Desktop\Flutter\App_02\flutter_application_2\build\flutter_secure_storage\intermediates\merged_res\release
